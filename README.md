@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**OopsRanitAgain/OopsRanitAgain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on MERN STACK<br>🌱 I’m currently learning MERN STACK, C and Python<br>💬 Ask me about JAVA<br>⚡ Fun fact : If You aren't working on you then Your whole is a Fun topic For Everyone
 
@@ -27,4 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=OopsRanitAgain&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
