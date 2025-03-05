@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on MERN STACK<br>🌱 I’m currently learning MERN STACK, C and Python<br>💬 Ask me about JAVA<br>⚡ Fun fact : If You aren't working on you then Your whole is a Fun topic For Everyone
+🔭 I’m currently working on MERN STACK<br>👯 I’m looking to collaborate on MERN STACK<br>🌱 I’m currently learning MERN STACK, C and Python<br>💬 Ask me about JAVA<br>⚡ Fun fact : If You aren't working on you then Your whole LIFE is a Fun topic For Everyone
 
 
 ## 🌐 Socials:
